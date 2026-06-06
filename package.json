@@ -1,0 +1,32 @@
+{
+  "name": "api-001",
+  "version": "1.0.0",
+  "description": "demo api construction",
+  "homepage": "https://github.com/yashukaSan/api-demo-01#readme",
+  "bugs": {
+    "url": "https://github.com/yashukaSan/api-demo-01/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashukaSan/api-demo-01.git"
+  },
+  "license": "ISC",
+  "author": "yogesh sahu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "helmet": "^8.2.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescipt": "^1.0.0"
+  }
+}
